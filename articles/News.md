@@ -63,7 +63,7 @@ In this case, model parameters are saved in external files. Exported models shal
 
 <img src=https://cntk.ai/Images/netron/netron-cntk-dark-1.png alt="NetronCNTKDark1" width="300"> <img src=https://cntk.ai/Images/netron/netron-cntk-light-1.png alt="NetronCNTKLight1" width="300">
 
-##September 2018
+## September 2018
 ***2018-09-17.* CNTK 2.6.0**
 Highlights:
 * .Net Support
